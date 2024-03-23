@@ -1,0 +1,1308 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800");
+@import url("https://api.fontshare.com/css?f[]=cairo@400,500,600,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caramel:wght@400");
+@import url("https://api.fontshare.com/css?f[]=caramel@400&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+.component-wrapper {
+  display: inline-flex;
+  flex-direction: row;
+  width: 100%;
+  letter-spacing: 0px;
+}
+
+.component-component-0 {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+  row-gap: 16px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+  overflow: clip;
+}
+
+.component-t-rectangle-24 {
+  display: flex;
+  padding-right: 64px;
+  height: 112px;
+  width: 1806px;
+  margin-left: 36px;
+  align-items: center;
+  font-family: Cairo;
+  font-size: 24px;
+  line-height: normal;
+}
+
+.component-rectangle-24 {
+  display: flex;
+  position: relative;
+  filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.25));
+  justify-content: center;
+  padding-top: 56px;
+  padding-right: 24px;
+  height: 112px;
+  flex-grow: 1;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+}
+
+.component-untitled_design__20_removebg-preview-1 {
+  display: flex;
+  position: absolute;
+  top: 1px;
+  right: 160px;
+  justify-content: flex-end;
+  padding-top: 48px;
+  padding-left: 32px;
+  height: 96px;
+  width: 112px;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: center;
+  color: rgba(49, 46, 129, 1);
+  font-weight: 800;
+}
+
+.component-background-0 {
+  inset: 0px;
+  position: absolute;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px -1.01px;
+  background-size: 100% 101%;
+  background-image: url(/assets/background-2.png);
+}
+
+.component-background-1 {
+  inset: 0px;
+  position: absolute;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px -1.01px;
+  background-size: 100% 101%;
+  background-image: url(/assets/background-2.png);
+}
+
+.component-background-2 {
+  inset: 0px;
+  position: absolute;
+  max-height: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: 0px -1.01px;
+  background-size: 100% 101%;
+  background-image: url(/assets/background-2.png);
+}
+
+.component-component-1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  flex-grow: 1;
+  align-self: stretch;
+  margin-left: 32px;
+}
+
+.component-text {
+  white-space: pre-wrap;
+}
+
+.component-ttttttt-line-1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  height: 80px;
+  width: 932px;
+  column-gap: 64px;
+  margin-top: 48px;
+  align-items: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 400;
+}
+
+.component-component-2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 160px;
+}
+
+.component-component-3 {
+  width: 144px;
+  padding-left: 2.5px;
+  align-items: center;
+  display: flex;
+  text-align: left;
+}
+
+.component-component-4 {
+  width: 128px;
+  align-items: center;
+  display: flex;
+  text-align: left;
+}
+
+.component-component-5 {
+  width: 80px;
+  text-align: left;
+}
+
+.component-ttt-line-1 {
+  display: flex;
+  justify-content: center;
+  padding-left: 2.5px;
+  align-self: stretch;
+  width: 160px;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+}
+
+.component-component-6 {
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.component-tt-line-1 {
+  display: flex;
+  padding-bottom: 0px;
+  height: 0px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.component-t-line-1 {
+  display: flex;
+  justify-content: center;
+  height: 5px;
+  width: 160px;
+  flex-direction: column;
+  margin-top: -36px;
+  align-items: center;
+}
+
+.component-line-1 {
+  flex-grow: 1;
+  width: 160px;
+  margin-right: 4px;
+}
+
+.component-rectangle-3 {
+  display: flex;
+  position: absolute;
+  left: 36px;
+  bottom: 14px;
+  border-top-right-radius: 40px;
+  border-top-left-radius: 40px;
+  padding-top: 16px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 28px;
+  height: 80px;
+  width: 208px;
+  flex-direction: column;
+  background-color: rgba(30, 64, 175, 1);
+  align-items: flex-end;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700;
+}
+
+.component-component-7 {
+  flex-grow: 1;
+  align-self: stretch;
+}
+
+.component-tt-bg-rectangle-6ttfreepik-notes-inject-7tbg-freepik-character-inject-7tfreepik-speech-bubble-inject-7tfreepik-device-inject-7tbg-freepik-lamp-inject-7freepik-plant-inject-7freepik-cushion-inject-7freepik-chair-inject-7freepik-desk-inject-7 {
+  display: flex;
+  position: relative;
+  justify-content: flex-end;
+  padding-left: 888px;
+  width: 1806px;
+  margin-left: 36px;
+  align-items: center;
+  text-align: right;
+  font-family: Cairo;
+  color: rgba(255, 255, 255, 1);
+  line-height: normal;
+}
+
+.component-t-bg-rectangle-6tt {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  padding-top: 64px;
+  padding-right: 64px;
+  padding-left: 64px;
+  padding-bottom: 80px;
+  align-self: stretch;
+  width: 918px;
+  flex-direction: column;
+  row-gap: 28px;
+  align-items: center;
+}
+
+.component-wrapper-0 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  height: 1061px;
+  width: 918px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.component-bg-rectangle-6 {
+  position: absolute;
+  left: 6.5e-14px;
+  top: 1061px;
+  height: 918px;
+  width: 1061px;
+  transform: rotate(-90deg);
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  transform-origin: top left;
+  background-color: rgba(30, 64, 175, 1);
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.component-component-8 {
+  align-self: stretch;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  display: flex;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.component-component-9 {
+  align-self: stretch;
+  padding-right: 36px;
+  padding-left: 36px;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  display: flex;
+  font-weight: 600;
+  font-size: 48px;
+}
+
+.component-freepik-chair-inject-7 {
+  position: absolute;
+  left: 594px;
+  bottom: 240px;
+  height: 208px;
+  width: 256px;
+}
+
+.component-freepik-cushion-inject-7 {
+  position: absolute;
+  left: 605px;
+  bottom: 384px;
+  height: 224px;
+  width: 256px;
+}
+
+.component-freepik-notes-inject-7 {
+  position: absolute;
+  top: 384px;
+  left: 176px;
+  height: 160px;
+  width: 320px;
+}
+
+.component-t-bg-freepik-lamp-inject-7freepik-plant-inject-7 {
+  display: flex;
+  position: absolute;
+  left: 40px;
+  bottom: 240px;
+  justify-content: flex-end;
+  padding-right: 112px;
+  padding-left: 112px;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-image: url("/assets/FreepikLampInject7.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.component-freepik-plant-inject-7 {
+  height: 160px;
+  width: 96px;
+}
+
+.component-t-bg-freepik-character-inject-7tfreepik-speech-bubble-inject-7tfreepik-device-inject-7 {
+  display: flex;
+  position: absolute;
+  left: 320px;
+  bottom: 240px;
+  justify-content: center;
+  height: 481px;
+  width: 519px;
+  flex-direction: column;
+  row-gap: 224px;
+  align-items: center;
+  background-image: url("/assets/FreepikCharacterInject7.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.component-t-freepik-speech-bubble-inject-7 {
+  display: flex;
+  justify-content: flex-end;
+  height: 128px;
+  width: 507px;
+  align-items: center;
+}
+
+.component-freepik-speech-bubble-inject-7 {
+  align-self: stretch;
+  width: 128px;
+}
+
+.component-t-freepik-device-inject-7 {
+  display: flex;
+  height: 144px;
+  width: 545px;
+  margin-right: 0px;
+  align-items: center;
+}
+
+.component-freepik-device-inject-7 {
+  align-self: stretch;
+  width: 288px;
+}
+
+.component-freepik-desk-inject-7 {
+  position: absolute;
+  left: 48px;
+  bottom: 240px;
+  height: 0.78px;
+  width: 938px;
+}
+
+.component-t-t0 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+  width: 1806px;
+  margin-left: 36px;
+  align-items: flex-end;
+  text-align: right;
+  font-family: Cairo;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 1);
+  line-height: normal;
+  font-weight: 700;
+}
+
+.component-component-10 {
+  width: 384px;
+  align-self: stretch;
+  align-items: center;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.component-t-t1 {
+  width: 1806px;
+  padding-top: 4px;
+  padding-right: 144px;
+  padding-left: 48px;
+  margin-left: 36px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  line-height: normal;
+  font-size: 36px;
+  font-family: Cairo;
+}
+
+.component-component-11 {
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+  height: 208px;
+  align-self: stretch;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 500;
+}
+
+.component-component-12 {
+  height: 3px;
+  align-self: stretch;
+  align-items: flex-end;
+  display: flex;
+  text-align: left;
+  font-weight: 700;
+  color: rgba(30, 64, 175, 1);
+}
+
+.component-component-13 {
+  width: 1806px;
+  padding-left: 1347px;
+  margin-left: 36px;
+  align-items: flex-end;
+  justify-content: flex-end;
+  display: flex;
+  text-align: right;
+  line-height: normal;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: Cairo;
+  color: rgba(0, 0, 0, 1);
+}
+
+.component-ttt-bg-ellipse-10ttttvector-7pm-10pm-ttt20102024mdi-calendar-month-tbg-rectangle-19bg-rectangle-8rectangle-15rectangle-68 {
+  width: 1806px;
+  padding-top: 56px;
+  padding-right: 288px;
+  padding-left: 160px;
+  margin-left: 36px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 56px;
+  row-gap: 56px;
+  flex-wrap: wrap;
+  display: flex;
+  line-height: normal;
+}
+
+.component-t-bg-ellipse-10 {
+  height: 96px;
+  width: 96px;
+  margin-bottom: 12px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 32px;
+  padding-left: 32px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("/assets/Ellipse10.svg");
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  font-weight: 400;
+  font-size: 48px;
+  font-family: Caramel;
+  color: rgba(49, 46, 129, 1);
+}
+
+.component-component-14 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  border-color: rgba(49, 46, 129, 1);
+  border-style: solid;
+}
+
+.component-tttt-vector-7pm-10pm-ttt20102024mdi-calendar-month-tbg-rectangle-19bg-rectangle-8rectangle-15rectangle-68 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  flex-grow: 1;
+  column-gap: 128px;
+  margin-bottom: 1.5px;
+  align-items: center;
+  font-family: Cairo;
+}
+
+.component-ttt-vector-7pm-10pm-ttt20102024mdi-calendar-month-tbg-rectangle-19bg-rectangle-8 {
+  display: flex;
+  justify-content: center;
+  padding-top: 6px;
+  align-self: stretch;
+  width: 320px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-tt-vector-7pm-10pm-ttt20102024mdi-calendar-month-tbg-rectangle-19bg-rectangle-8 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 40px;
+  padding-right: 10px;
+  padding-bottom: 24px;
+  flex-grow: 1;
+  width: 320px;
+  flex-direction: column;
+  row-gap: 6px;
+  align-items: center;
+  background-image: url("/assets/Rectangle8.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.component-t-vector-7pm-10pm {
+  display: flex;
+  position: relative;
+  padding-bottom: 5px;
+  align-self: stretch;
+  flex-direction: column;
+  margin-right: 8px;
+  align-items: center;
+  text-align: right;
+  color: rgba(0, 0, 0, 1);
+}
+
+.component-component-15 {
+  display: flex;
+  position: absolute;
+  right: 4px;
+  bottom: 12px;
+  justify-content: flex-end;
+  height: 56px;
+  width: 160px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.component-component-16 {
+  display: flex;
+  position: relative;
+  justify-content: flex-end;
+  flex-grow: 1;
+  align-self: stretch;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.component-pm-10pm {
+  display: flex;
+  position: absolute;
+  left: 24px;
+  bottom: 0px;
+  justify-content: flex-end;
+  height: 56px;
+  width: 112px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.component-vector {
+  position: absolute;
+  right: 144px;
+  bottom: 24px;
+  height: 36px;
+  width: 36px;
+}
+
+.component-tt-t20102024mdi-calendar-month {
+  display: flex;
+  justify-content: center;
+  padding-top: 14px;
+  padding-right: 48px;
+  padding-left: 48px;
+  height: 64px;
+  align-self: stretch;
+  margin-right: 8px;
+  align-items: flex-end;
+  text-align: right;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 500;
+}
+
+.component-t-20102024mdi-calendar-month {
+  width: 224px;
+  align-self: stretch;
+  padding-left: 40px;
+  align-items: flex-start;
+  justify-content: center;
+  column-gap: 24px;
+  display: flex;
+}
+
+.component-component-17 {
+  display: flex;
+  justify-content: flex-end;
+  align-self: stretch;
+  width: 128px;
+}
+
+.component-mdi-calendar-month {
+  height: 40px;
+  width: 40px;
+}
+
+.component-t-bg-rectangle-19 {
+  display: flex;
+  position: relative;
+  padding-right: 64px;
+  padding-left: 64px;
+  padding-bottom: 16px;
+  align-self: stretch;
+  margin-right: 8px;
+  align-items: flex-start;
+  text-align: center;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700;
+}
+
+.component-bg-rectangle-19 {
+  position: absolute;
+  top: 0px;
+  right: 36px;
+  left: 36px;
+  bottom: 0px;
+}
+
+.component-component-18 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.component-rectangle-15 {
+  display: flex;
+  filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  justify-content: center;
+  padding-top: 20px;
+  padding-right: 12px;
+  padding-bottom: 24px;
+  align-self: stretch;
+  width: 320px;
+  flex-direction: column;
+  row-gap: 28px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.component-t-vector-8am-12pm {
+  display: flex;
+  position: relative;
+  padding-bottom: 48px;
+  align-self: stretch;
+  flex-direction: column;
+  margin-right: 10px;
+  align-items: center;
+  text-align: right;
+  color: rgba(0, 0, 0, 1);
+}
+
+.component-component-19 {
+  display: flex;
+  position: absolute;
+  right: 0.09px;
+  bottom: 0px;
+  justify-content: flex-end;
+  height: 56px;
+  width: 160px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.component-am-12pm {
+  display: flex;
+  position: absolute;
+  left: 24px;
+  bottom: 6px;
+  justify-content: flex-end;
+  height: 44px;
+  width: 112px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.component-vector-0 {
+  position: absolute;
+  right: 144px;
+  left: 144px;
+  bottom: 14px;
+  height: 36px;
+}
+
+.component-component-20 {
+  display: flex;
+  position: relative;
+  justify-content: flex-end;
+  flex-grow: 1;
+  align-self: stretch;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.component-tt-rectangle-16mdi-calendar-month-20102024 {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 32px;
+  padding-left: 48px;
+  align-self: stretch;
+  margin-right: 10px;
+  align-items: center;
+}
+
+.component-t-rectangle-16mdi-calendar-month-20102024 {
+  display: flex;
+  position: relative;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-component-21 {
+  align-self: stretch;
+  padding-bottom: 14px;
+  padding-right: 28px;
+  padding-left: 28px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: rgba(30, 64, 175, 1);
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  display: flex;
+  text-align: center;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.component-component-22 {
+  display: flex;
+  position: absolute;
+  top: 3px;
+  left: 56px;
+  justify-content: flex-end;
+  text-align: right;
+  height: 56px;
+  width: 112px;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 500;
+}
+
+.component-mdi-calendar-month-0 {
+  position: absolute;
+  top: 0px;
+  right: 24px;
+  height: 40px;
+  width: 40px;
+}
+
+.component-rectangle-68 {
+  display: flex;
+  filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  justify-content: flex-end;
+  padding-top: 44px;
+  padding-bottom: 24px;
+  align-self: stretch;
+  width: 320px;
+  flex-direction: column;
+  row-gap: 14px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: center;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.component-tt-vector-9pm-11pm {
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 20px;
+  width: 320px;
+  margin-right: 0px;
+  align-items: center;
+  color: rgba(0, 0, 0, 1);
+}
+
+.component-t-vector-9pm-11pm {
+  display: flex;
+  position: relative;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-grow: 1;
+  align-items: flex-start;
+}
+
+.component-component-23 {
+  position: relative;
+  align-self: stretch;
+  flex-grow: 1;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.component-component-24 {
+  display: flex;
+  position: absolute;
+  right: 24px;
+  bottom: 0px;
+  justify-content: flex-end;
+  text-align: right;
+  height: 56px;
+  width: 144px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.component-pm-11pm {
+  display: flex;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  justify-content: flex-end;
+  text-align: right;
+  height: 44px;
+  width: 112px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.component-vector-1 {
+  position: absolute;
+  left: 128px;
+  bottom: 10px;
+  height: 32px;
+  width: 36px;
+}
+
+.component-tt-t772024tmdi-calendar-month {
+  display: flex;
+  justify-content: center;
+  padding-right: 40px;
+  padding-left: 40px;
+  height: 64px;
+  width: 320px;
+  margin-right: 0px;
+  align-items: flex-end;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 500;
+  text-align: right;
+}
+
+.component-t-772024tmdi-calendar-month {
+  height: 48px;
+  flex-grow: 1;
+  padding-top: 4px;
+  padding-right: 36px;
+  align-items: flex-start;
+  justify-content: center;
+  column-gap: 12px;
+  display: flex;
+}
+
+.component-component-25 {
+  display: flex;
+  justify-content: flex-end;
+  align-self: stretch;
+  width: 176px;
+}
+
+.component-t-mdi-calendar-month {
+  display: flex;
+  height: 36px;
+  width: 40px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-mdi-calendar-month-1 {
+  height: 40px;
+  width: 40px;
+  margin-top: -4px;
+}
+
+.component-component-26 {
+  width: 256px;
+  padding-bottom: 14px;
+  padding-right: 32px;
+  padding-left: 32px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: rgba(30, 64, 175, 1);
+  align-items: flex-start;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.component-component-27 {
+  width: 1806px;
+  padding-left: 1336px;
+  margin-left: 36px;
+  align-items: flex-end;
+  justify-content: flex-end;
+  display: flex;
+  text-align: right;
+  line-height: normal;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: Cairo;
+  color: rgba(0, 0, 0, 1);
+}
+
+.component-tt-t0 {
+  width: 1806px;
+  padding-top: 96px;
+  padding-right: 288px;
+  padding-left: 320px;
+  margin-left: 36px;
+  align-items: flex-end;
+  justify-content: center;
+  column-gap: 208px;
+  display: flex;
+  line-height: normal;
+  font-weight: 800;
+  font-size: 32px;
+  font-family: Cairo;
+}
+
+.component-component-28 {
+  padding-bottom: 10px;
+  align-items: center;
+  display: flex;
+  text-align: left;
+  color: rgba(49, 46, 129, 1);
+}
+
+.component-component-29 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-self: stretch;
+  width: 320px;
+  color: rgba(49, 46, 129, 1);
+}
+
+.component-component-30 {
+  width: 240px;
+  padding-left: 3.3px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  color: rgba(49, 46, 129, 1);
+}
+
+.component-t-rectangle-67ttrectangle-66ttellipse-4ellipse-11trectangle-65ttellipse-6ttellipse-7 {
+  width: 1806px;
+  padding-top: 16px;
+  padding-right: 288px;
+  padding-left: 288px;
+  margin-left: 36px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 208px;
+  row-gap: 144px;
+  flex-wrap: wrap;
+  display: flex;
+  text-align: center;
+  font-weight: 600;
+  font-family: Cairo;
+  color: rgba(49, 46, 129, 1);
+}
+
+.component-rectangle-67 {
+  display: flex;
+  filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  padding-top: 48px;
+  padding-right: 6px;
+  height: 288px;
+  width: 288px;
+  flex-direction: column;
+  row-gap: 20px;
+  background-color: rgba(255, 255, 255, 0.72);
+  align-items: center;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-size: 30px;
+  line-height: normal;
+}
+
+.component-t-volunteer-31 {
+  display: flex;
+  justify-content: center;
+  padding-left: 6px;
+  height: 128px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.component-volunteer-31 {
+  height: 128px;
+  width: 128px;
+  object-position: center;
+  object-fit: cover;
+}
+
+.component-component-31 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.component-tt-rectangle-66ttellipse-4ellipse-11 {
+  display: flex;
+  justify-content: center;
+  padding-left: 2px;
+  align-self: stretch;
+  width: 288px;
+  align-items: center;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.component-t-rectangle-66ttellipse-4ellipse-11 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-rectangle-66 {
+  display: flex;
+  position: relative;
+  filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  padding-top: 48px;
+  height: 288px;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 24px;
+  z-index: 3;
+  background-color: rgba(255, 255, 255, 0.72);
+  align-items: center;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.component-love-1 {
+  padding-right: 32px;
+  padding-left: 32px;
+  height: 128px;
+  width: 192px;
+  object-position: center;
+  object-fit: cover;
+}
+
+.component-component-32 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.component-tt-ellipse-4 {
+  display: flex;
+  position: relative;
+  padding-bottom: 0px;
+  height: 0px;
+  align-self: stretch;
+  flex-direction: column;
+  z-index: 2;
+  align-items: center;
+}
+
+.component-ellipse-4 {
+  padding-left: 10px;
+  height: 8px;
+  width: 16px;
+  margin-top: -143.15px;
+}
+
+.component-ellipse-11 {
+  position: absolute;
+  top: 112px;
+  left: 64px;
+  height: 8px;
+  width: 8px;
+  z-index: 1;
+}
+
+.component-t-rectangle-65ttellipse-6ttellipse-7 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+  width: 288px;
+  align-items: flex-end;
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.component-rectangle-65 {
+  display: flex;
+  filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  justify-content: flex-end;
+  padding-top: 12px;
+  padding-right: 12px;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  align-self: stretch;
+  flex-grow: 1;
+  flex-direction: column;
+  row-gap: 56px;
+  background-color: rgba(255, 255, 255, 0.72);
+  align-items: center;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.component-t-clock-11 {
+  display: flex;
+  justify-content: center;
+  height: 128px;
+  width: 176px;
+  align-items: center;
+}
+
+.component-clock-11 {
+  position: relative;
+  height: 128px;
+  width: 128px;
+}
+
+.component-background {
+  inset: 0px;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+  background-image: url(/assets/background-3.png);
+}
+
+.component-background-3 {
+  inset: 0px;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+  background-image: url(/assets/background-3.png);
+}
+
+.component-component-33 {
+  display: flex;
+  justify-content: center;
+  align-self: stretch;
+}
+
+.component-tt-ellipse-6 {
+  display: flex;
+  padding-bottom: 0px;
+  height: 0px;
+  width: 8px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-t-ellipse-6 {
+  display: flex;
+  justify-content: center;
+  padding-right: 2px;
+  height: 5px;
+  align-self: stretch;
+  margin-top: -225px;
+  align-items: center;
+}
+
+.component-ellipse-6 {
+  height: 5px;
+  width: 5.1px;
+}
+
+.component-tt-ellipse-7 {
+  display: flex;
+  padding-bottom: 0px;
+  height: 0px;
+  width: 6px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-t-ellipse-7 {
+  display: flex;
+  justify-content: center;
+  padding-right: 2px;
+  height: 5px;
+  align-self: stretch;
+  margin-top: -215.99px;
+  align-items: center;
+}
+
+.component-ellipse-7 {
+  height: 5px;
+  width: 4.8px;
+  margin-right: -0.01px;
+}
+
+.component-tt-rectangle-5 {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 224px;
+  padding-left: 5px;
+  height: 320px;
+  width: 1806px;
+  flex-direction: column;
+  margin-left: 36px;
+  align-items: center;
+}
+
+.component-rectangle-5 {
+  height: 128px;
+  align-self: stretch;
+  margin-right: 64px;
+  background-color: rgba(30, 64, 175, 1);
+}
+@media (min-width: 1725px) {
+  .component-ttt-bg-ellipse-10ttttvector-7pm-10pm-ttt20102024mdi-calendar-month-tbg-rectangle-19bg-rectangle-8rectangle-15rectangle-68 {
+    flex-wrap: nowrap;
+  }
+  .component-t-rectangle-67ttrectangle-66ttellipse-4ellipse-11trectangle-65ttellipse-6ttellipse-7 {
+    flex-wrap: nowrap;
+  }
+}
